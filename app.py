@@ -22,9 +22,9 @@ rf_model = RandomForestClassifier(n_estimators=100, random_state=42)
 rf_model.fit(X_resampled, y_resampled)
 
 def main():
-    st.title('Implant Survival Prediction Model (12 months)')
+    st.title('Megaprosthesis Survival Prediction Model (12 months)')
     
-    st.sidebar.header('User Input Features')
+    st.sidebar.header('Input Features')
 
     age_options = ['<18', '18-40', '41-65', '>65']
     age = st.sidebar.selectbox('Age', age_options)
@@ -83,12 +83,12 @@ def main():
     y_pred = rf_model.predict(input_data)
     y_proba = rf_model.predict_proba(input_data)[:, 1]
 
-    labels = {0: "Failure", 1: "Survival"}
+    labels = {0: "failure", 1: "survival"}
     prediction_label = labels[y_pred[0]]
 
     st.subheader('Prediction')
-    st.write(f'The predicted outcome is {prediction_label}')
     st.write(f'Probability of survival: {y_proba[0]}')
+    st.write(f'The predicted outcome is {st.markdown:red[{prediction_label}]}')
 
 if __name__ == '__main__':
     main()
