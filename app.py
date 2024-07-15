@@ -88,7 +88,7 @@ def main():
 
     st.subheader('Prediction')
     st.write(f'Probability of survival: {y_proba[0]}')
-    if y_pred = 0:
+    if y_pred == 0:
         st.markdown(f'The predicted outcome is :red[{prediction_label}]')
     else:
         st.markdown(f'The predicted outcome is :green[{prediction_label}]')
