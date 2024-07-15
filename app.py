@@ -47,7 +47,7 @@ def main():
     diagnosis = st.sidebar.selectbox('Diagnosis', diagnosis_options)
 
     # Location
-    location_options = data['Location'].unique()
+    location_options = ['Upper Extremity', 'Lower Extremity']
     location = st.sidebar.selectbox('Location', location_options)
 
     # Resection
