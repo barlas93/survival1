@@ -91,13 +91,13 @@ def main():
     if y_pred == 0:
         result_html = f"""
         <div style="text-align: center;">
-            <span style="font-size: 24px">The predicted outcome is </span><span style="font-size: 24px; color: red;"{prediction_label}</span>
+            <span style="font-size: 24px">The predicted outcome is </span><span style="font-size: 36px; color: red;"{prediction_label}</span>
         </div>
         """
     else:
         result_html = f"""
         <div style="text-align: center;">
-            <span style="font-size: 24px">The predicted outcome is </span><span style="font-size: 24px; color: green;"{prediction_label}</span>
+            <span style="font-size: 24px">The predicted outcome is </span><span style="font-size: 36px; color: green;"{prediction_label}</span>
         </div>
         """
 
