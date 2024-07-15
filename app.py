@@ -89,8 +89,18 @@ def main():
     st.subheader('(12 months)')
     st.write(f'Probability of survival: {y_proba[0]}')
     if y_pred == 0:
-        st.markdown(f'The predicted outcome is :red[{prediction_label}]')
+        result_html = f"""
+        <div style="text-align: center;">
+            <span style="font-size: 24px">The predicted outcome is </span><span style="font-size: 24px; color: red;"{prediction_label}</span>
+        </div>
+        """
     else:
-        st.markdown(f'The predicted outcome is :green[{prediction_label}]')
+        result_html = f"""
+        <div style="text-align: center;">
+            <span style="font-size: 24px">The predicted outcome is </span><span style="font-size: 24px; color: green;"{prediction_label}</span>
+        </div>
+        """
+
+    st.markdown(result_html, unsafe_allow_html=True)
 if __name__ == '__main__':
     main()
