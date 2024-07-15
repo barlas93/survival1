@@ -15,7 +15,7 @@ data['Diagnosis'] = label_encoder.fit_transform(data['Diagnosis'])
 X = data[['Age', 'Sex', 'BMI', 'Diagnosis', 'Location', 'Resection', 'Infection', 'CT', 'RT', 'Revision']]
 y = data['SURV1']
 
-oversample = RandomOverSampler(sampling_strategy='minority')
+oversample = RandomOverSampler(sampling_strategy='minority', random_state=42)
 X_resampled, y_resampled = oversample.fit_resample(X, y)
 
 rf_model = RandomForestClassifier(n_estimators=100, random_state=42)  
