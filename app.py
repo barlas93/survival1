@@ -87,7 +87,12 @@ def main():
     prediction_label = labels[y_pred[0]]
 
     st.subheader('(12 months)')
-    st.write(f'Probability of survival: {y_proba[0]}')
+    prob_html = f"""
+    <div style="text-align: center;">
+            <span style="font-size: 36px">Probability of survival: {y_proba[0]}</span>
+    </div>
+    """
+    st.markdown(prob_html, unsafe_allow_html=True)
     if y_pred == 0:
         result_html = f"""
         <div style="text-align: center;">
