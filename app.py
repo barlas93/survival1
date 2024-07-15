@@ -22,7 +22,8 @@ rf_model = RandomForestClassifier(n_estimators=100, random_state=42)
 rf_model.fit(X_resampled, y_resampled)
 
 def main():
-    st.title('Megaprosthesis Survival Prediction')
+    st.title('Megaprosthesis Survival Prediction
+            12 months')
     
     st.sidebar.header('Input Features')
 
@@ -86,13 +87,6 @@ def main():
     labels = {0: "failure", 1: "survival"}
     prediction_label = labels[y_pred[0]]
 
-    subhead_html = f"""
-    <div style="text-align: center;">
-            <span style="font-size: 36px">12 months</span>
-    </div>
-    """
-    st.markdown(subhead_html, unsafe_allow_html=True)
-    
     prob_html = f"""
     <div style="text-align: center;">
             <span style="font-size: 28px">Probability of survival: {y_proba[0]}</span>
