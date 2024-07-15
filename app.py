@@ -86,23 +86,30 @@ def main():
     labels = {0: "failure", 1: "survival"}
     prediction_label = labels[y_pred[0]]
 
-    st.subheader('(12 months)')
+    subhead_html = f"""
+    <div style="text-align: center;">
+            <span style="font-size: 36px">12 months</span>
+    </div>
+    """
+    st.markdown(subhead_html, unsafe_allow_html=True)
+    
     prob_html = f"""
     <div style="text-align: center;">
-            <span style="font-size: 36px">Probability of survival: {y_proba[0]}</span>
+            <span style="font-size: 28px">Probability of survival: {y_proba[0]}</span>
     </div>
     """
     st.markdown(prob_html, unsafe_allow_html=True)
+    
     if y_pred == 0:
         result_html = f"""
         <div style="text-align: center;">
-            <span style="font-size: 36px">The predicted outcome is </span><span style="font-size: 36px; color: red;">{prediction_label}</span>
+            <span style="font-size: 28px">The predicted outcome is </span><span style="font-size: 28px; color: red;">{prediction_label}</span>
         </div>
         """
     else:
         result_html = f"""
         <div style="text-align: center;">
-            <span style="font-size: 36px">The predicted outcome is </span><span style="font-size: 36px; color: green;">{prediction_label}</span>
+            <span style="font-size: 28px">The predicted outcome is </span><span style="font-size: 28px; color: green;">{prediction_label}</span>
         </div>
         """
 
