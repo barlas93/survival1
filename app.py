@@ -89,8 +89,8 @@ def main():
     st.subheader('(12 months)')
     st.write(f'Probability of survival: {y_proba[0]}')
     if y_pred == 0:
-        st.markdown(f'<p style="font-family:sans-serif; font-size: 24px;">The predicted outcome is :red[{prediction_label}]</p>')
+        st.markdown(f'The predicted outcome is :red[{prediction_label}]')
     else:
-        st.markdown(f'<p style="font-family:sans-serif; font-size: 24px;">The predicted outcome is :green[{prediction_label}]</p>')
+        st.markdown(f'The predicted outcome is :green[{prediction_label}]')
 if __name__ == '__main__':
     main()
