@@ -87,7 +87,7 @@ def main():
     prediction_label = labels[y_pred[0]]
 
     prob_html = f"""
-    <div style="text-align: center;">
+    <div style="text-align: center; margin-top: 20px;">
             <span style="font-size: 28px">Probability of survival: {y_proba[0]}</span>
     </div>
     """
