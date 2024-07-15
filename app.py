@@ -86,12 +86,11 @@ def main():
     labels = {0: "failure", 1: "survival"}
     prediction_label = labels[y_pred[0]]
 
-    st.header('(12 months)')
-    probs = '<p style="font-family:sans-serif; font-size: 42px;">Probability of survival: {y_proba[0]}</p>'
-    st.subheader(Probability of survival: {y_proba[0]})
+    st.subheader('(12 months)')
+    st.write(Probability of survival: {y_proba[0]})
     if y_pred == 0:
-        st.subheader(f'The predicted outcome is :red[{prediction_label}]')
+        st.markdown(f'<p style="font-family:sans-serif; font-size: 24px;">The predicted outcome is :red[{prediction_label}]</p>')
     else:
-        st.subheader(f'The predicted outcome is :green[{prediction_label}]')
+        st.markdown(f'<p style="font-family:sans-serif; font-size: 24px;">The predicted outcome is :green[{prediction_label}]</p>')
 if __name__ == '__main__':
     main()
