@@ -1,139 +1,139 @@
 Name,Sex,Age,BMI,Diagnosis,Location,Resection,Revision,Infection,CT,RT,SURV1
-"Almazan, Jeovanny ",MALE,2,3,P,2,2,1,0,1,0,1
-"Young, Jonicia ",FEMALE,2,3,P,2,2,1,0,1,0,1
-"Connor, John ",MALE,3,4,P,2,4,1,0,1,0,1
-"Perez, Elizabeth",FEMALE,4,4,M,1,1,1,0,1,1,1
-"Holland, Ashley",FEMALE,2,4,P,2,1,1,0,1,0,0
-"Holland, Ashley",FEMALE,2,4,P,2,2,2,0,1,0,1
-"Agramonte, Francisca",FEMALE,4,4,M,1,1,1,0,1,1,1
-"Gallagher, Luke",MALE,1,2,P,2,2,1,0,1,0,1
-"Gallagher, Luke",MALE,1,2,P,2,2,2,0,1,0,1
-"Vega, Lillian",FEMALE,3,2,M,2,1,1,0,1,1,1
-"Gabbe, Crystal",FEMALE,1,1,P,2,1,2,0,1,0,1
-"Gabbe, Crystal",FEMALE,1,1,P,2,2,3,0,1,0,1
-"Shapiro, Batsheva",FEMALE,1,2,P,2,2,1,0,1,0,1
-"Williams, Collin",MALE,3,2,M,2,1,1,0,0,1,1
-"Nixon, Shannon",MALE,2,2,M,1,2,1,0,1,1,1
-"Pennington, Jermaine",MALE,2,4,P,2,3,1,0,1,0,1
-"Velez, Lillian",FEMALE,2,3,P,2,1,1,0,0,1,1
-"Marrero Figueroa, Andrea",FEMALE,4,3,M,2,1,1,0,1,1,1
-"Pichirilio, Ricardo",FEMALE,3,3,M,2,1,1,0,1,1,1
-"Rawlins, Dominic",MALE,3,4,M,2,1,1,0,0,0,1
-"Lopez, Mitchell",MALE,2,5,P,2,1,1,0,0,0,1
-"Stephenson, Barbara",FEMALE,3,3,M,2,1,1,0,0,1,1
-"Kassim, Jamel",MALE,2,2,P,2,2,1,0,1,0,0
-"Espinal Garcia, Hilario",MALE,3,3,P,2,2,2,0,1,1,1
-"Rivera, Francisca",FEMALE,4,4,M,2,2,1,0,1,1,1
-"Ulic, Nika",MALE,3,3,M,2,2,1,0,1,1,1
-"Pinto, Ann",FEMALE,4,5,P,2,3,1,0,1,1,1
-"Ragusa, Anna",FEMALE,3,2,M,2,2,1,0,1,1,1
-"Campbell, Mark",MALE,3,2,P,2,3,1,0,1,0,1
-"Attareb, Raid",MALE,1,1,P,2,2,1,0,1,0,1
-"Attareb, Raid",MALE,1,1,P,2,2,2,0,1,0,1
-"Masterson, Griffin",MALE,1,4,P,2,1,1,0,1,0,1
-"Gonzalez Mercedes, Nashai",FEMALE,2,4,P,2,2,1,0,0,0,1
-"Flores Sanchez, Omar",MALE,1,2,P,2,2,1,0,1,0,0
-"Flores Sanchez, Omar",MALE,1,2,P,2,2,2,0,1,0,1
-"Chimmel, Yisroel",MALE,2,2,P,2,2,1,0,1,1,1
-"Chimmel, Yisroel",MALE,2,2,P,2,2,2,1,1,1,1
-"Chimmel, Yisroel",MALE,2,2,P,2,2,3,1,1,1,1
-"Richard, Bernadette",FEMALE,3,4,M,2,2,1,0,1,1,0
-"Richard, Bernadette",FEMALE,3,4,M,2,4,2,0,1,1,1
-"Garcia, Apolinar ",MALE,3,2,M,2,3,1,0,1,1,0
-"Garcia, Apolinar ",MALE,3,2,M,2,4,2,0,1,1,0
-"Losecco, Judith",FEMALE,4,4,P,2,2,1,0,0,0,0
-"Losecco, Judith",FEMALE,4,4,P,2,2,2,1,0,0,1
-"Ahmed, Thikra",FEMALE,3,2,P,2,1,1,0,1,0,1
-"Ahmed, Thikra",FEMALE,3,2,P,2,2,2,0,1,0,1
-"Halary, Alhaji",MALE,3,2,P,2,2,1,0,1,0,1
-"Halary, Alhaji",MALE,3,2,P,2,3,2,0,1,0,1
-"Dooner, William",MALE,3,3,P,2,2,1,0,1,0,1
-"Walters, David",MALE,1,1,P,2,2,1,0,1,0,1
-"Lugo, Adriana",FEMALE,1,2,P,2,3,1,0,1,0,1
-"Diwan, Danish",MALE,2,1,P,2,1,1,0,1,0,1
-"Cofield, Benjamin",MALE,4,1,P,2,2,1,0,0,1,1
-"Zhang, Bo",FEMALE,2,2,P,2,3,1,0,0,0,1
-"Perretti, Andrew",MALE,3,2,M,2,1,1,0,1,1,1
-"Alberici, Carole",FEMALE,3,4,P,2,1,1,0,0,1,1
-"Rufor, Victor",MALE,4,4,M,1,2,1,0,1,0,1
-"Stearns, Patricia",FEMALE,4,4,M,1,1,1,0,1,1,1
-"Stearns, Patricia",FEMALE,4,4,M,1,1,2,0,1,1,1
-"Santiago, Javier",MALE,3,4,M,1,2,1,0,0,0,1
-"Rosa, Ramon",MALE,3,4,M,2,2,1,0,1,1,1
-"Rodriguez Zacarias, Alex",MALE,1,2,P,2,2,1,0,1,0,1
-"Lown, Samuel",MALE,1,3,P,2,3,1,0,1,0,1
-"Urena de Roa, Paola",FEMALE,2,2,P,2,3,1,0,0,0,1
-"Julmis, Denise",FEMALE,3,5,M,2,3,1,0,1,0,0
-"Julmis, Denise",FEMALE,3,4,M,2,3,2,1,1,0,0
-"Padilla Chavez, Juan",MALE,3,2,M,2,3,1,0,1,1,1
-"Colotti, Agostino",MALE,3,4,M,2,1,1,0,1,1,1
-"Dhuha, Sumaiyaa",FEMALE,1,2,P,2,2,1,0,1,1,1
-"Zaruma Camacho, Diego",MALE,2,2,P,2,2,1,0,1,0,1
-"Apolinar, Cornelio ",MALE,3,3,M,1,1,1,0,1,1,1
-"Zawaski, Larry",MALE,3,3,M,2,2,1,0,1,0,1
-"Peralta, Ana",FEMALE,3,3,P,2,2,1,0,1,0,1
-"Baez, Jimmy",MALE,3,3,P,1,2,1,0,1,0,1
-"Gomez, Almira",FEMALE,3,3,P,2,2,1,0,0,0,1
-"Lopez Calvo, Jorge",MALE,1,3,P,2,2,1,0,1,0,1
-"Marcos, Filogonio",MALE,3,3,M,2,1,1,0,1,1,1
-"Marrasquin, Elizabeth",FEMALE,1,2,P,2,2,1,0,1,0,0
-"Marrasquin, Elizabeth",FEMALE,1,2,P,2,2,2,1,1,0,0
-"Marrasquin, Elizabeth",FEMALE,1,2,P,2,2,3,1,1,0,1
-"Reid, Kenroy",MALE,1,3,P,2,2,1,0,1,0,1
-"Balde, Thierno",MALE,2,2,P,2,1,1,0,1,0,1
-"Cooke, Tameka",FEMALE,2,2,M,1,1,1,0,1,1,1
-"Cooke, Tameka",FEMALE,2,2,M,1,1,2,0,1,1,0
-"Cooke, Tameka",FEMALE,2,2,M,1,1,3,0,1,1,0
-"Cooke, Tameka",FEMALE,2,2,M,1,1,4,0,1,1,1
-"Rodriguez, Eliel",MALE,2,3,P,1,2,1,0,0,0,1
-"Whyte, Tonimarie",FEMALE,1,2,P,2,2,1,0,1,0,1
-"Whyte, Tonimarie",FEMALE,1,2,P,2,2,2,0,1,0,1
-"Simmons, Daishawn",MALE,1,2,P,2,3,1,0,1,0,1
-"Simmons, Daishawn",MALE,1,2,P,2,3,1,0,1,0,1
-"Lambert, Toni",FEMALE,2,2,P,2,2,2,0,0,0,1
-"Weingarten, Hymen",MALE,4,3,P,2,2,2,0,0,0,1
-"Laboriel, Olga",FEMALE,3,3,P,2,1,1,0,0,0,1
-"Henoch, Lerner",MALE,2,4,P,2,2,1,1,1,0,1
-"Tiru, Alexis",FEMALE,1,2,P,2,2,1,1,0,0,1
-"Tiru, Alexis",FEMALE,1,2,P,2,3,2,1,0,0,1
-"Tiru, Alexis",FEMALE,2,2,P,2,4,3,1,0,0,1
-"Porter, Sherry",FEMALE,3,4,P,2,1,1,1,1,1,1
-"Porter, Sherry",FEMALE,3,4,P,2,1,2,1,1,1,1
-"Malapoe, Raymond",MALE,3,3,P,2,1,1,0,0,0,1
-"Malapoe, Raymond",MALE,3,3,P,2,1,2,0,0,0,1
-"Wood, Christina",FEMALE,2,4,P,2,4,2,0,1,0,1
-"Wood, Christina",FEMALE,2,4,P,2,4,3,0,1,0,1
-"Wood, Christina",FEMALE,2,4,P,2,4,4,0,1,0,1
-"Wood, Christina",FEMALE,2,4,P,2,4,5,1,1,0,1
-"Ruiz, Xavier",MALE,1,2,P,1,2,1,0,1,0,1
-"Wilson, Jonathan",MALE,1,2,P,2,2,1,0,1,0,1
-"Semmens, Mary",FEMALE,3,2,P,2,4,1,0,0,0,1
-"Semmens, Mary",FEMALE,4,2,P,2,4,2,0,0,0,1
-"Morales, Elizabeth",FEMALE,2,4,P,1,3,1,0,0,0,1
-"Magneri, Grace",FEMALE,4,4,NO,2,2,1,0,0,0,1
-"Williams, Kaylia",FEMALE,1,3,P,2,2,1,0,1,0,1
-"Corporan, Eduard",MALE,2,2,P,2,2,1,0,1,0,1
-"Corporan, Eduard",MALE,2,2,P,2,2,2,0,1,0,1
-"Montes, Kassandra",FEMALE,2,2,P,2,1,1,0,1,0,1
-"Miller, Ena",FEMALE,4,3,P,2,1,1,1,0,0,1
-"Rodriguez, Altagracia",FEMALE,3,3,P,2,1,1,0,0,1,1
-"Frimpong, Fred",MALE,4,3,M,2,2,1,0,1,0,1
-"Ramos, Maria",FEMALE,4,4,M,2,1,1,0,1,1,1
-"Sampogna, Hayden",MALE,1,2,P,2,2,1,0,1,0,1
-"Sampogna, Hayden",MALE,1,2,P,2,2,2,0,1,0,1
-"Sampogna, Hayden",MALE,1,2,P,2,3,3,1,1,0,1
-"Polanco, Jose",MALE,4,4,NO,2,1,1,0,0,0,1
-"Polanco, Jose",MALE,4,4,NO,2,2,2,0,0,0,1
-"Rivera, Luisa",FEMALE,3,4,M,1,1,1,0,1,1,1
-"Demaj, Betim",MALE,1,3,P,1,1,1,0,1,1,0
-"Demaj, Betim",MALE,1,3,P,1,1,2,0,1,1,1
-"Demaj, Betim",MALE,1,3,P,1,1,3,0,1,1,1
-"Lopez, Julius",MALE,1,2,P,2,2,1,0,1,0,1
-Sonia Sotomayor,FEMALE,3,3,NO,2,1,1,0,0,0,1
-Sonia Sotomayor,FEMALE,3,3,P,2,2,1,0,0,0,1
-Rosa R Romero,FEMALE,3,4,NO,2,1,1,0,0,0,1
-"Lamar, Tony",MALE,3,2,NO,2,2,1,0,0,0,1
-"Lamar, Tony",MALE,3,2,NO,2,2,1,0,0,0,1
-David Frankel,MALE,3,3,P,2,3,1,0,1,0,1
-David Frankel,MALE,3,3,P,2,3,2,0,1,0,1
-"Murdock, Vernilda",FEMALE,4,2,M,1,1,1,0,1,1,1
+1,MALE,2,3,P,2,2,1,0,1,0,1
+2,FEMALE,2,3,P,2,2,1,0,1,0,1
+3,MALE,3,4,P,2,4,1,0,1,0,1
+4,FEMALE,4,4,M,1,1,1,0,1,1,1
+5,FEMALE,2,4,P,2,1,1,0,1,0,0
+6,FEMALE,2,4,P,2,2,2,0,1,0,1
+7,FEMALE,4,4,M,1,1,1,0,1,1,1
+8,MALE,1,2,P,2,2,1,0,1,0,1
+9,MALE,1,2,P,2,2,2,0,1,0,1
+10,FEMALE,3,2,M,2,1,1,0,1,1,1
+11,FEMALE,1,1,P,2,1,2,0,1,0,1
+12,FEMALE,1,1,P,2,2,3,0,1,0,1
+13,FEMALE,1,2,P,2,2,1,0,1,0,1
+14,MALE,3,2,M,2,1,1,0,0,1,1
+15,MALE,2,2,M,1,2,1,0,1,1,1
+16,MALE,2,4,P,2,3,1,0,1,0,1
+17,FEMALE,2,3,P,2,1,1,0,0,1,1
+18,FEMALE,4,3,M,2,1,1,0,1,1,1
+19,FEMALE,3,3,M,2,1,1,0,1,1,1
+20,MALE,3,4,M,2,1,1,0,0,0,1
+21,MALE,2,5,P,2,1,1,0,0,0,1
+22,FEMALE,3,3,M,2,1,1,0,0,1,1
+23,MALE,2,2,P,2,2,1,0,1,0,0
+24,MALE,3,3,P,2,2,2,0,1,1,1
+25,FEMALE,4,4,M,2,2,1,0,1,1,1
+26,MALE,3,3,M,2,2,1,0,1,1,1
+27,FEMALE,4,5,P,2,3,1,0,1,1,1
+28,FEMALE,3,2,M,2,2,1,0,1,1,1
+29,MALE,3,2,P,2,3,1,0,1,0,1
+30,MALE,1,1,P,2,2,1,0,1,0,1
+31,MALE,1,1,P,2,2,2,0,1,0,1
+32,MALE,1,4,P,2,1,1,0,1,0,1
+33,FEMALE,2,4,P,2,2,1,0,0,0,1
+34,MALE,1,2,P,2,2,1,0,1,0,0
+35,MALE,1,2,P,2,2,2,0,1,0,1
+36,MALE,2,2,P,2,2,1,0,1,1,1
+37,MALE,2,2,P,2,2,2,1,1,1,1
+38,MALE,2,2,P,2,2,3,1,1,1,1
+39,FEMALE,3,4,M,2,2,1,0,1,1,0
+40,FEMALE,3,4,M,2,4,2,0,1,1,1
+41,MALE,3,2,M,2,3,1,0,1,1,0
+42,MALE,3,2,M,2,4,2,0,1,1,0
+43,FEMALE,4,4,P,2,2,1,0,0,0,0
+44,FEMALE,4,4,P,2,2,2,1,0,0,1
+45,FEMALE,3,2,P,2,1,1,0,1,0,1
+46,FEMALE,3,2,P,2,2,2,0,1,0,1
+47,MALE,3,2,P,2,2,1,0,1,0,1
+48,MALE,3,2,P,2,3,2,0,1,0,1
+49,MALE,3,3,P,2,2,1,0,1,0,1
+50,MALE,1,1,P,2,2,1,0,1,0,1
+51,FEMALE,1,2,P,2,3,1,0,1,0,1
+52,MALE,2,1,P,2,1,1,0,1,0,1
+53,MALE,4,1,P,2,2,1,0,0,1,1
+54,FEMALE,2,2,P,2,3,1,0,0,0,1
+55,MALE,3,2,M,2,1,1,0,1,1,1
+56,FEMALE,3,4,P,2,1,1,0,0,1,1
+57,MALE,4,4,M,1,2,1,0,1,0,1
+58,FEMALE,4,4,M,1,1,1,0,1,1,1
+59,FEMALE,4,4,M,1,1,2,0,1,1,1
+60,MALE,3,4,M,1,2,1,0,0,0,1
+61,MALE,3,4,M,2,2,1,0,1,1,1
+62,MALE,1,2,P,2,2,1,0,1,0,1
+63,MALE,1,3,P,2,3,1,0,1,0,1
+64,FEMALE,2,2,P,2,3,1,0,0,0,1
+65,FEMALE,3,5,M,2,3,1,0,1,0,0
+66,FEMALE,3,4,M,2,3,2,1,1,0,0
+67,MALE,3,2,M,2,3,1,0,1,1,1
+68,MALE,3,4,M,2,1,1,0,1,1,1
+69,FEMALE,1,2,P,2,2,1,0,1,1,1
+70,MALE,2,2,P,2,2,1,0,1,0,1
+71,MALE,3,3,M,1,1,1,0,1,1,1
+72,MALE,3,3,M,2,2,1,0,1,0,1
+73,FEMALE,3,3,P,2,2,1,0,1,0,1
+74,MALE,3,3,P,1,2,1,0,1,0,1
+75,FEMALE,3,3,P,2,2,1,0,0,0,1
+76,MALE,1,3,P,2,2,1,0,1,0,1
+77,MALE,3,3,M,2,1,1,0,1,1,1
+78,FEMALE,1,2,P,2,2,1,0,1,0,0
+79,FEMALE,1,2,P,2,2,2,1,1,0,0
+80,FEMALE,1,2,P,2,2,3,1,1,0,1
+81,MALE,1,3,P,2,2,1,0,1,0,1
+82,MALE,2,2,P,2,1,1,0,1,0,1
+83,FEMALE,2,2,M,1,1,1,0,1,1,1
+84,FEMALE,2,2,M,1,1,2,0,1,1,0
+85,FEMALE,2,2,M,1,1,3,0,1,1,0
+86,FEMALE,2,2,M,1,1,4,0,1,1,1
+87,MALE,2,3,P,1,2,1,0,0,0,1
+88,FEMALE,1,2,P,2,2,1,0,1,0,1
+89,FEMALE,1,2,P,2,2,2,0,1,0,1
+90,MALE,1,2,P,2,3,1,0,1,0,1
+91,MALE,1,2,P,2,3,1,0,1,0,1
+92,FEMALE,2,2,P,2,2,2,0,0,0,1
+93,MALE,4,3,P,2,2,2,0,0,0,1
+94,FEMALE,3,3,P,2,1,1,0,0,0,1
+95,MALE,2,4,P,2,2,1,1,1,0,1
+96,FEMALE,1,2,P,2,2,1,1,0,0,1
+97,FEMALE,1,2,P,2,3,2,1,0,0,1
+98,FEMALE,2,2,P,2,4,3,1,0,0,1
+99,FEMALE,3,4,P,2,1,1,1,1,1,1
+100,FEMALE,3,4,P,2,1,2,1,1,1,1
+101,MALE,3,3,P,2,1,1,0,0,0,1
+102,MALE,3,3,P,2,1,2,0,0,0,1
+103,FEMALE,2,4,P,2,4,2,0,1,0,1
+104,FEMALE,2,4,P,2,4,3,0,1,0,1
+105,FEMALE,2,4,P,2,4,4,0,1,0,1
+106,FEMALE,2,4,P,2,4,5,1,1,0,1
+107,MALE,1,2,P,1,2,1,0,1,0,1
+108,MALE,1,2,P,2,2,1,0,1,0,1
+109,FEMALE,3,2,P,2,4,1,0,0,0,1
+110,FEMALE,4,2,P,2,4,2,0,0,0,1
+111,FEMALE,2,4,P,1,3,1,0,0,0,1
+112,FEMALE,4,4,NO,2,2,1,0,0,0,1
+113,FEMALE,1,3,P,2,2,1,0,1,0,1
+114,MALE,2,2,P,2,2,1,0,1,0,1
+115,MALE,2,2,P,2,2,2,0,1,0,1
+116,FEMALE,2,2,P,2,1,1,0,1,0,1
+117,FEMALE,4,3,P,2,1,1,1,0,0,1
+118,FEMALE,3,3,P,2,1,1,0,0,1,1
+119,MALE,4,3,M,2,2,1,0,1,0,1
+120,FEMALE,4,4,M,2,1,1,0,1,1,1
+121,MALE,1,2,P,2,2,1,0,1,0,1
+122,MALE,1,2,P,2,2,2,0,1,0,1
+123,MALE,1,2,P,2,3,3,1,1,0,1
+124,MALE,4,4,NO,2,1,1,0,0,0,1
+125,MALE,4,4,NO,2,2,2,0,0,0,1
+126,FEMALE,3,4,M,1,1,1,0,1,1,1
+127,MALE,1,3,P,1,1,1,0,1,1,0
+128,MALE,1,3,P,1,1,2,0,1,1,1
+129,MALE,1,3,P,1,1,3,0,1,1,1
+130,MALE,1,2,P,2,2,1,0,1,0,1
+131,FEMALE,3,3,NO,2,1,1,0,0,0,1
+132,FEMALE,3,3,P,2,2,1,0,0,0,1
+133,FEMALE,3,4,NO,2,1,1,0,0,0,1
+134,MALE,3,2,NO,2,2,1,0,0,0,1
+135,MALE,3,2,NO,2,2,1,0,0,0,1
+136,MALE,3,3,P,2,3,1,0,1,0,1
+137,MALE,3,3,P,2,3,2,0,1,0,1
+138,FEMALE,4,2,M,1,1,1,0,1,1,1
