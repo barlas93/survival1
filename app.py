@@ -22,7 +22,7 @@ rf_model = RandomForestClassifier(n_estimators=100, random_state=42)
 rf_model.fit(X_resampled, y_resampled)
 
 def main():
-    st.title('Megaprosthesis Survival Prediction Model (12 months)')
+    st.title('Megaprosthesis Survival Prediction')
     
     st.sidebar.header('Input Features')
 
@@ -86,8 +86,9 @@ def main():
     labels = {0: "failure", 1: "survival"}
     prediction_label = labels[y_pred[0]]
 
-    st.subheader('Prediction')
-    st.write(f'Probability of survival: {y_proba[0]}')
+    st.subheader('(12 months)')
+    probs = '<p style="font-family:sans-serif; font-size: 42px;">Probability of survival: {y_proba[0]}</p>'
+    st.markdown(probs, unsafe_allow_html=True)
     if y_pred == 0:
         st.markdown(f'The predicted outcome is :red[{prediction_label}]')
     else:
