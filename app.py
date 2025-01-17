@@ -12,7 +12,7 @@ label_encoder = LabelEncoder()
 data['Sex'] = label_encoder.fit_transform(data['Sex'])
 data['Diagnosis'] = label_encoder.fit_transform(data['Diagnosis'])
 
-X = data[['Age', 'Sex', 'BMI', 'Diagnosis', 'Location', 'Resection', 'Infection', 'CT', 'RT', 'Revision']]
+X = data[['Age', 'Sex', 'BMI', 'Diagnosis', 'Location', 'Resection', 'Revision']]
 y = data['SURV1']
 
 oversample = RandomOverSampler(sampling_strategy='minority', random_state=42)
@@ -47,15 +47,6 @@ def main():
     revision_options = ['1', '2', '3', '>3']
     revision = st.sidebar.selectbox('Number of surgeries', revision_options)
 
-    infection_options = ['Yes', 'No']
-    infection = st.sidebar.selectbox('History of infection', infection_options)
-
-    ct_options = ['Yes', 'No']
-    ct = st.sidebar.selectbox('Chemotherapy', ct_options)
-
-    rt_options = ['Yes', 'No']
-    rt = st.sidebar.selectbox('Radiation therapy', rt_options)
-
     age_mapping = {'<18': 1, '18-40': 2, '41-65': 3, '>65': 4}
     bmi_mapping = {'<18.5': 1, '18.5-24.9': 2, '25-29.9': 3, '30-39.9': 4, '>40': 5}
     sex_mapping = {'Male': 1, 'Female': 0}
@@ -63,9 +54,6 @@ def main():
     location_mapping = {'Upper Extremity': 1, 'Lower Extremity': 2}
     resection_mapping = {'<120': 1, '121-199': 2, '200-299': 3, '>300': 4}
     revision_mapping = {'1': 1, '2': 2, '3': 3, '>3': 4}
-    infection_mapping = {'Yes': 1, 'No': 0}
-    ct_mapping = {'Yes': 1, 'No': 0}
-    rt_mapping = {'Yes': 1, 'No': 0}
 
     input_data = pd.DataFrame({
         'Age': [age_mapping[age]],
@@ -74,9 +62,6 @@ def main():
         'Diagnosis': [diagnosis_mapping[diagnosis]],
         'Location': [location_mapping[location]],
         'Resection': [resection_mapping[resection]],
-        'Infection': [infection_mapping[infection]],
-        'CT': [ct_mapping[ct]],
-        'RT': [rt_mapping[rt]],
         'Revision': [revision_mapping[revision]]
     })
 
