@@ -38,7 +38,7 @@ def main():
     diagnosis_options = ['Primary', 'Metastatic', 'Non-Oncologic']
     diagnosis = st.sidebar.selectbox('Diagnosis', diagnosis_options)
 
-    location_options = ['Upper Extremity', 'Lower Extremity']
+    location_options = ['Proximal Femur Replacement', 'Distal Femur Replacement', 'Proximal Tibia Replacement', 'Proximal Humerus Replacement']
     location = st.sidebar.selectbox('Location', location_options)
 
     resection_options = ['<120', '121-199', '200-299', '>300']
