@@ -51,7 +51,7 @@ def main():
     bmi_mapping = {'<18.5': 1, '18.5-24.9': 2, '25-29.9': 3, '30-39.9': 4, '>40': 5}
     sex_mapping = {'Male': 1, 'Female': 0}
     diagnosis_mapping = {'Non-Oncologic':2, 'Primary': 1, 'Metastatic': 0}
-    location_mapping = {'Proximal Femur Replacement': 1, 'Distal Femur Replacement': 2, 'Proximal Tibia Replacement': 3, 'Proximal Humerus Replacement': 4, 'Total Femur Replacement': 5}
+    location_mapping = {'Proximal Femur Replacement': 1, 'Distal Femur Replacement': 2, 'Proximal Tibia Replacement': 3, 'Proximal Humerus Replacement': 4}
     resection_mapping = {'<120': 1, '121-199': 2, '200-299': 3, '>300': 4}
     revision_mapping = {'1': 1, '2': 2, '3': 3, '>3': 4}
 
